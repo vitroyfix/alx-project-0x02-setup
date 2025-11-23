@@ -1,3 +1,3 @@
-# Next.js Project Setup and Basics
+# Next.js Starter Project
 
-This repository serves as a comprehensive introduction to setting up and working with Next.js, TypeScript, and Tailwind CSS. It covers fundamental concepts including project scaffolding, basic routing with the Pages Router, creating reusable components, and integrating with external APIs.
+This repository provides a starting point for building modern web apps with Next.js, TypeScript, and Tailwind CSS. It includes setup for routing, reusable components, and integration with APIs.
